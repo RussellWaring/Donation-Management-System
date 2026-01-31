@@ -1,4 +1,4 @@
-**Disclaimer**
+**Disclaimer** <br/>
 Actual repo is kept private to respect course assignment, but feel free to reach out to me if you have any questions
 
 ## Donation Management System
@@ -10,7 +10,7 @@ We tied this together by creating a WPF desktop application using Visual Studio 
 
 ## Preview
 
-![](https://github.com/RussellWaring/Donation-Management-System/refs/heads/main/dms.gif)
+![](https://github.com/RussellWaring/Donation-Management-System/blob/main/dms.gif)
 
 ## Technologies
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
