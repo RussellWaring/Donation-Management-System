@@ -10,11 +10,17 @@ We tied this together by creating a WPF desktop application using Visual Studio 
 
 ## Preview
 
+![](https://github.com/RussellWaring/Donation-Management-System/refs/heads/main/dms.gif)
 
 ## Technologies
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![WPF](https://img.shields.io/badge/WPF-5C2D91?style=for-the-badge&logo=windows&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
 
 ## Built with
 
-Maria Skibinksi | LinkedIn
-Nicholas Shortt | LinkedIn
+Maria Skibinksi | LinkedIn  <a href='https://www.linkedin.com/in/maria-skibinski/'>LinkedIn</a><br>
+Nicholas Shortt | LinkedIn <a href='https://www.linkedin.com/in/nicholas-shortt-838069173/'>LinkedIn</a> 
 
