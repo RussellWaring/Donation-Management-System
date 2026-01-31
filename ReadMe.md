@@ -21,6 +21,6 @@ We tied this together by creating a WPF desktop application using Visual Studio 
 
 ## Built with
 
-Maria Skibinksi | LinkedIn  <a href='https://www.linkedin.com/in/maria-skibinski/'>LinkedIn</a><br>
-Nicholas Shortt | LinkedIn <a href='https://www.linkedin.com/in/nicholas-shortt-838069173/'>LinkedIn</a> 
+Maria Skibinksi | <a href='https://www.linkedin.com/in/maria-skibinski/'>LinkedIn</a><br>
+Nicholas Shortt | <a href='https://www.linkedin.com/in/nicholas-shortt-838069173/'>LinkedIn</a> 
 
